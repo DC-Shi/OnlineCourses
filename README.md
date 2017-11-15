@@ -17,3 +17,4 @@ Pattern Discovery in Data Mining | Coursera | 2015.03 | [Certification](https://
 Machine Learning | Coursera | 2014.06 | [Statement of Accomplishment](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=972224)
 
 
+> 最近整理了一些之前写过的代码，但考虑到Coursera规则，放在了private repo当中。以后有空会慢慢放出来一些
